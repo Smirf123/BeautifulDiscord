@@ -9,12 +9,12 @@ with open('README.md') as f:
 
 
 setup(
-    name='BeautifulDiscord',
-    author='leovoel',
-    url='https://github.com/leovoel/BeautifulDiscord',
+    name='BeautifulGuilded',
+    author='Smirf123',
+    url='https://github.com/Smirf123/BeautifulDiscord',
     version='0.1.1',
     license='MIT',
-    description='Adds custom CSS support to Discord.',
+    description='Adds custom CSS support to Guilded, forked from Beautiful Discord by Leovoel',
     long_description=readme,
     packages=find_packages(),
     install_requires=requirements,

@@ -7,7 +7,7 @@ import textwrap
 import subprocess
 import psutil
 import sys
-from beautifuldiscord.asar import Asar
+from beautifulguilded.asar import Asar
 
 class DiscordProcess:
     def __init__(self, path, exe):

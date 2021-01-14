@@ -1,3 +1,3 @@
-from beautifuldiscord.app import main
+from beautifulguilded.app import main
 
 main()
